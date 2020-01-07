@@ -1,2 +1,2 @@
 # portal_noticias
-Projeto de um portal de noticias. Criado para aprendizado de Node.js.
+Projeto de um portal de noticias. Criado para aprendizado de Node.js. Hospedado no Heroku.
